@@ -1,2 +1,0 @@
-# GitCommandRepo
-GitCommandRepo
